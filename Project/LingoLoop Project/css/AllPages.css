@@ -1,0 +1,15 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Montserrat', sans-serif !important;
+}
+
+body {
+    background-color: rgba(219, 232, 241, 0.852);
+}
+
+.logo {
+    width: 15%;
+    height: 20%;
+}
+
